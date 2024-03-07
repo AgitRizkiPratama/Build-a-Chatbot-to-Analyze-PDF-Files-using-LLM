@@ -1,5 +1,4 @@
 import os
-
 # Import necessary modules from langchain
 from langchain import OpenAI
 from langchain.chains import ConversationalRetrievalChain
